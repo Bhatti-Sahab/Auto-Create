@@ -1,6 +1,7 @@
 import os
 os.system('git pull')
 os.system("clear")
+os.system("rm -rf p64")
 print('\033[92;1m ❲\033[97;1m+\033[92;1m❳ Join Whatsapp Group')
 os.system('xdg-open https://chat.whatsapp.com/CTEKJujCtIs7k2OCv4QHzy')
 from os import path,system
